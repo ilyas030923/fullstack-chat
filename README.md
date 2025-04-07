@@ -42,5 +42,3 @@ npm start
 ```
 
 end of readme.md
-
-..
